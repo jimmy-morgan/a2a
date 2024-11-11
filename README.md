@@ -1,6 +1,6 @@
 # Getting Started with A2A Movie Research App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the front-end for the Movie Research App.  You will need to run the API locally and update src/api.tsx with the API URL.
 
 ## Available Scripts
 
